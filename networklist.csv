@@ -1,0 +1,5 @@
+DeviceName,IP,SNMPCommunity,Description,Owner
+router1.opsmgr.net,10.10.10.44,cAB1AGIAbABpAGMA,CISCO 6509,Core Network Team
+switch2.opsmgr.net,10.10.10.12,cAB1AGIAbABpAGMA,CISCO 2948,Site3 Network Team
+
+
