@@ -1,5 +1,3 @@
-DeviceName,IP,SNMPCommunity,Description,Owner
-router1.opsmgr.net,10.10.10.44,cAB1AGIAbABpAGMA,CISCO 6509,Core Network Team
-switch2.opsmgr.net,10.10.10.12,cAB1AGIAbABpAGMA,CISCO 2948,Site3 Network Team
-
-
+DeviceName,IP,SNMPCommunity,SNMPVersion,Description,Owner
+opsmgrcisco.opsmgr.net,10.10.10.3,cAB1AGIAbABpAGMA,1,CISCO 1600,Branch Network Team
+ubuntu.opsmgr.net,10.10.10.44,cAB1AGIAbABpAGMA,1,Ubuntu Linux Server,Linux Team
